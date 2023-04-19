@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-01T16:51:19 IST" name="Default suite" finished-at="2022-10-01T16:51:19 IST" duration-ms="68">
+    <groups>
+    </groups>
+    <test started-at="2022-10-01T16:51:19 IST" name="Default test" finished-at="2022-10-01T16:51:19 IST" duration-ms="68">
+      <class name="Selenium.TestNGclass">
+        <test-method is-config="true" signature="before()[pri:0, instance:Selenium.TestNGclass@6ef888f6]" started-at="2022-10-01T16:51:19 IST" name="before" finished-at="2022-10-01T16:51:19 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method is-config="true" signature="Bmethod()[pri:0, instance:Selenium.TestNGclass@6ef888f6]" started-at="2022-10-01T16:51:19 IST" name="Bmethod" finished-at="2022-10-01T16:51:19 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bmethod -->
+        <test-method signature="taste()[pri:0, instance:Selenium.TestNGclass@6ef888f6]" started-at="2022-10-01T16:51:19 IST" name="taste" finished-at="2022-10-01T16:51:19 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- taste -->
+      </class> <!-- Selenium.TestNGclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
