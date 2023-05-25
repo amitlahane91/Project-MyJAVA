@@ -7,7 +7,7 @@ public class Fibonanci {
 		int a=0;
 		int b=1;
 		int c;
-		int count=10;
+		int count=15;
 		System.out.print(a+" "+b);
 		
 		for(int i=2; i<count; i++) {
